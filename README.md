@@ -1,4 +1,4 @@
-
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/medeiros-leandro-scrum/)](https://www.linkedin.com/in/medeiros-leandro-scrum/)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
